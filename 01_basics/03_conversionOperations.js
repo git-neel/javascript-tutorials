@@ -31,3 +31,23 @@ console.log(typeof Boolean(flag))
 let sum = true
 console.log(String(sum))
 console.log(typeof String(sum))
+
+
+//******Operations*** */
+
+console.log("starting operations learning")
+
+let str = "hello "
+let naam = "neel"
+console.log(str+naam)
+
+console.log("1"+2)//12
+console.log(1+"2"+3)//123
+console.log(1+2+"3")//33
+console.log("1"+2+3)//123
+
+console.log(-true)//-1
+console.log(+"")//0
+console.log(+"3")//3
+
+
